@@ -1,0 +1,5 @@
+com\doctor\crudhibernate\models\Producto.class
+com\doctor\crudhibernate\models\Pedido.class
+com\doctor\crudhibernate\controller\HibernateUtil.class
+com\doctor\crudhibernate\controller\Principal.class
+com\doctor\crudhibernate\controller\SessionData.class
